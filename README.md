@@ -8,11 +8,12 @@ You can find old versions of R below.
 
 
 ## related links   
-### Original Author's github 
+### Original Author's github   
+All the following lecture materials were written by Professor Seungyong Hwang.    
 * [https://github.com/vic-dragon]    
 * [https://vic-dragon.github.io/]
 
-### 1. lecture PDF   
+### 1. lecture PDF  
 [https://url.kr/5d7wp8]
 
 ### 2. Dataset for this lecture
