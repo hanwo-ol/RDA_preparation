@@ -2,6 +2,9 @@
 Repository for 2025_04_24 RDA lecture
 
 ## You can find some tips for codes used in 2025_04_24 RDA lecture(Seungyong Hwang).
+NOTE: You have to Use R version =< 4.4.1 to use GAPIT library   
+You can find old versions of R below.   
+[https://cran.r-project.org/bin/windows/base/old/]
 
 
 ## related links   
