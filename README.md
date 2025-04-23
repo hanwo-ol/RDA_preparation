@@ -1,12 +1,6 @@
 # RDA_preparation
 Repository for 2025_04_24 RDA lecture
 
-## You can find some tips for codes used in 2025_04_24 RDA lecture(Seungyong Hwang).
-NOTE: You have to Use R version =< 4.4.1 to use GAPIT library   
-You can find old versions of R below.   
-[https://cran.r-project.org/bin/windows/base/old/]
-
-
 ## related links   
 ### Original Author's github   
 All the following lecture materials were written by Professor Seungyong Hwang.    
@@ -39,3 +33,7 @@ NOTE: The three links(1. ~ 3.) above will expire on April 21, 2028.
 # BiocManager::install("SNPRelate")
 # install.packages("ggpubr")
 ```
+NOTE: You have to Use R version =< 4.4.1 to use GAPIT library   
+
+You can find old versions of R below.   
+[https://cran.r-project.org/bin/windows/base/old/]
