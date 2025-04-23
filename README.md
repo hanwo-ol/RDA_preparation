@@ -25,7 +25,16 @@ You can find old versions of R below.
 NOTE: The three links(1. ~ 3.) above will expire on April 21, 2028.
 ```
 
-## Codes 
+## Install Libraries
 ``` r
+## Rtools설치가 필요할 수 있음.
+## 현재 r version에 맞는 툴즈 설치하기
+## https://cran.r-project.org/bin/windows/Rtools/
 
+# install.packages("vcfR")
+# install.packages("devtools")
+# devtools::install_github("jiabowang/GAPIT", force=TRUE)
+# install.packages("BiocManager")
+# BiocManager::install("SNPRelate")
+# install.packages("ggpubr")
 ```
