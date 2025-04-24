@@ -5,7 +5,7 @@ working directory를 위한 설명입니다.
 * 저는 압축 파일을 바탕화면에 압축 해제를 한 상태입니다.
 
   
-1. 우선, 실습 파일의 폴더가 있는 위치에 가시고,
+1. 우선, 실습 파일의 폴더가 있는 위치에 가시고,  
 <img width="202" alt="작업 공간 세팅 1" src="https://github.com/user-attachments/assets/95d41d93-f9e1-4064-a9fb-6864d15521c7" />    
 
 2. 우클릭 > 속성 클릭 하시면 됩니다.   
