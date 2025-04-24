@@ -1,6 +1,7 @@
 # RDA_preparation
 Repository for 2025_04_24 RDA lecture
 
+아래 qr 링크: [https://url.kr/evj1tb]
 
 ![QrCode-24-04-2025_11-00-22](https://github.com/user-attachments/assets/30c57d4b-bb48-4e29-9a5f-f2f8da5c985b)
 
