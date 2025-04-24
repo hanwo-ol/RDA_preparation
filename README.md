@@ -1,6 +1,6 @@
 # RDA_preparation
 Repository for 2025_04_24 RDA lecture.
-* 해당 repository는 결과 해석에 대한 내용은 포함하지 않습니다.
+* 해당 repository는 결과 해석 및 GPT 사용 방안에 대한 내용은 포함하지 않습니다.
 * 결과 해석 부분은 아래 related links의 3번에서 확인 부탁드립니다.
 
 아래 qr 링크: [https://url.kr/evj1tb]
