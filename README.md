@@ -23,6 +23,10 @@ All the following lecture materials were written by Professor Seungyong Hwang.
 ### 3. Codes
 [https://url.kr/tz8gs7]
 
+
+### 4. How To Use GAPIT?
+manual: [https://github.com/jiabowang/GAPIT/blob/master/Documents/gapit_help_document.pdf]
+
 ```
 NOTE: The three links(1. ~ 3.) above will expire on April 21, 2028.
 ```
