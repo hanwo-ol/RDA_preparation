@@ -35,5 +35,14 @@ NOTE: The three links(1. ~ 3.) above will expire on April 21, 2028.
 ```
 NOTE: You have to Use R version =< 4.4.1 to use GAPIT library   
 
-You can find old versions of R below.   
-[https://cran.r-project.org/bin/windows/base/old/]
+집(개인 수준으로)에서 하실 때에는, 
+* version을 확인 후 4.4.1 이하의 R 버전을 깔았는지 확인을 한번 해야 합니다.
+저 같은 경우는 R 4.3.3 또는 4.3.1을 사용하고 있습니다.
+
+아래 링크에서 우선 해당 버전을 설치해주시고
+* [https://cran.r-project.org/bin/windows/base/old/]
+
+아래 링크에서 RTools 4.3를 설치해주시면 됩니다.
+* [https://cran.r-project.org/bin/windows/Rtools/]
+
+
