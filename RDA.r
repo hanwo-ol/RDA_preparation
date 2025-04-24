@@ -1,18 +1,23 @@
+## Rtools설치가 필요할 수 있음.
+## 현재 r version에 맞는 툴즈 설치하기
+## https://cran.r-project.org/bin/windows/Rtools/
+
+# install.packages("vcfR")
+# install.packages("devtools")
+# devtools::install_github("jiabowang/GAPIT", force=TRUE)
+# install.packages("BiocManager")
+# BiocManager::install("SNPRelate")
+# install.packages("ggpubr")
+
+
 # 작업 환경 세팅 -------------------------------------------------------------
 # 현재 작업 디렉토리 확인
 getwd()
 
-# 작업 디렉토리 경로 지정 (GAPIT 실습 폴더)
+# 작업 디렉토리 경로 지정 (GAPIT 실습 폴더) 보조 강사는 아래처럼
 wk_dir <- "C:/Users/11015/Downloads/GAPIT_practice/GAPIT_practice/"
 # 작업 디렉토리 변경
 setwd(wk_dir)
-
-# 필요한 패키지 설치 (한 번만 실행)
-# devtools::install_github("jiabowang/GAPIT", force=TRUE)   # GAPIT 패키지 설치
-# install.packages("vcfR")                                  # VCF 파일 파싱용 vcfR
-# source("http://zzlab.net/GAPIT/gapit_functions.txt")      # GAPIT 함수 원격 소스 로드
-# install.packages("BiocManager")                           # Bioconductor 관리자
-# BiocManager::install("SNPRelate")                         # SNPRelate 패키지 설치
 
 
 # VCF 파일 불러오기 -----------------------------------------------------------
